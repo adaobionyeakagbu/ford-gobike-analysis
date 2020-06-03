@@ -4,8 +4,8 @@
 
 ## Dataset
 
-> This dataset contains trip details of the Ford GoBike sharing service. Ford GoBike is a company that provides on-demand bike rentals for customers in the Bay Area. The data consisted of 13 main initial variables for data entries in 2017, 2018, 2019 and January-March 2020. All the tables were merged and a 10% fraction of the entire set was finally used to get representation for each year and wrangling was done. The resulting dataset consisted of 512788 instances and 19 attributes with representation of entries from 2017 till March 2020.
-The dataset can be found in the repository: [https://s3.amazonaws.com/baywheels-data/2017-fordgobike-tripdata.csv].
+This dataset contains trip details of the Ford GoBike sharing service. Ford GoBike is a company that provides on-demand bike rentals for customers in the Bay Area. The data consisted of 13 main initial variables for data entries in 2017, 2018, 2019 and January-March 2020. All the tables were merged and a 10% fraction of the entire set was finally used to get representation for each year and wrangling was done. The resulting dataset consists of 512788 instances and 19 attributes with representation of entries from 2017 till March 2020 and is stored as a zip file gobike_master.csv.zip.
+The real entire dataset can be found in the repository: [https://s3.amazonaws.com/baywheels-data].
 Main features focused on
 1. User_type
 2. Duration
